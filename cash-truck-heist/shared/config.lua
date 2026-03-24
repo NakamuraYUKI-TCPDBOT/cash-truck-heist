@@ -57,7 +57,7 @@ Config.CashTruckHeist = {
     -- 爆弾
     bomb = {
         item = "cashtruckbomb",
-        timer = 5
+        timer = 90
     },
 
     -- 報酬
