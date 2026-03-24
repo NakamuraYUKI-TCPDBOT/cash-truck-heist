@@ -1,5 +1,5 @@
 # [FreeFiveM HeistScripts][Qbox]
-cash-truck-heist
+**cash-truck-heist**
 
 ## install
 server.cfg 
